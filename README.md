@@ -1,5 +1,4 @@
-# kod
-// Example program
+# kod // Example program
 #include <iostream>
 #include <string>
 #include <cstdlib>
