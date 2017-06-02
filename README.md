@@ -1,4 +1,4 @@
-# kod // Example program
+# kod // Tablica
 #include <iostream>
 #include <string>
 #include <cstdlib>
